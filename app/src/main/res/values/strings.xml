@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="followers">followers</string>
+    <string name="number_display">999</string>
+    <string name="following">following</string>
+    <string name="error_message">User Not Found</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="search">Mau Cari Siapa?</string>
+</resources>
